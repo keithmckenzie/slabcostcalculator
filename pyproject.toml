@@ -1,8 +1,9 @@
 [tool.poetry]
-name = "test-1"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+name = "Slab Cost Calculator"
+version = "1.0.0"
+description = "A test, I am currently learning python "
+authors = ["Keith McKenzie <keithmckenzie@protonmail.com>"]
+# if you could help me learn python, feel free to e-mail me.
 
 [tool.poetry.dependencies]
 python = ">=3.8.0,<3.9"
